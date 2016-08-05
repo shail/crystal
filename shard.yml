@@ -12,5 +12,10 @@ dependencies:
     github: sdogruyol/kemal-pg
   micrate:
     github: juanedi/micrate
+  active_record:
+    github: waterlink/active_record.cr
+    version: ~> 1.0
+  postgres_adapter:
+    github: waterlink/postgres_adapter.cr
 
 license: MIT
