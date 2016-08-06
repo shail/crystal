@@ -8,8 +8,8 @@ dependencies:
   kemal:
     github: sdogruyol/kemal
     branch: master
-  kemal-pg:
-    github: sdogruyol/kemal-pg
+  pg:
+    github: will/crystal-pg
   micrate:
     github: juanedi/micrate
   active_record:
